@@ -1,0 +1,7 @@
+
+Basic commands:
+git commit -am "merge(notes) combined both edits"
+git push
+ - Sends changes to the repository
+ git pull
+ - Pulls changes from the repository
