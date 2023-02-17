@@ -26,3 +26,10 @@ Adding JS bootstrap:
     crossorigin="anonymous"
   ></script>
 </body>
+
+
+Later on, when we introduce the idea of bundling your application, you will want to use the
+Node Package Manager (NPM) to download Bootstrap and include it in your source code so that 
+you don't have to rely on someone else's server to provide you with a vital piece of your application. 
+To include Bootstrap in your application using NPM you would run the following from your console.
+npm install bootstrap@5.2.3
